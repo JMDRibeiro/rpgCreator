@@ -9,7 +9,7 @@ disciplina de Algoritmos, possibilitando que seja implementado um ambiente minim
 estudantes a praticarem os exercicios e, portante, compreenderem melhor os conteúdos.
 
 Documentação:
-	Estórias do Usuário : https://docs.google.com/document/d/1agjzka60206MlqdbVPgvlDWVoCMTQeTyE1pQf0YDxg8/edit?usp=sharing
-	Modelos de Interface : https://app.moqups.com/joaoifpe15@gmail.com/1U8BcrI8NL/view
-	Diagrama de Classes : (LuicArt)
+	Estórias do Usuário(Google Drive) : https://docs.google.com/document/d/1agjzka60206MlqdbVPgvlDWVoCMTQeTyE1pQf0YDxg8/edit?usp=sharing
+	Modelos de Interface(Moqups): https://app.moqups.com/joaoifpe15@gmail.com/1U8BcrI8NL/view
+	Diagrama de Classes(LuicArt)  : https://www.lucidchart.com/invitations/accept/191b0afc-e827-495e-a011-412d67429ac0
 	Kanban(Trello) :  https://trello.com/invite/b/6MHgMvhc/b54f3adb3c423d6212a071ce4895e267/projeto-lpw-2017
