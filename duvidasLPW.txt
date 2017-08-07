@@ -1,0 +1,3 @@
+Como acessar as questões em componentes diferentes?
+O cabeçalho da página será um componente?
+Por enquanto uso os retornos como array chave-valor ou crio uma nova classe?
