@@ -1,3 +1,5 @@
 Como acessar as questões em componentes diferentes?
 O cabeçalho da página será um componente?
 Por enquanto uso os retornos como array chave-valor ou crio uma nova classe?
+Como colocar as coisas do listar-todas organizado?
+Condicionar os botões de acordo com as permissões do usuáro? (Visualizar)
