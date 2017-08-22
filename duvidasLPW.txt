@@ -1,5 +1,6 @@
-Como acessar as questıes em componentes diferentes?
-O cabeÁalho da p·gina ser· um componente?
+Como acessar as quest√µes em componentes diferentes?
+O cabe√ßalho da p√°gina ser√° um componente?
 Por enquanto uso os retornos como array chave-valor ou crio uma nova classe?
 Como colocar as coisas do listar-todas organizado?
-Condicionar os botıes de acordo com as permissıes do usu·ro? (Visualizar)
+Condicionar os bot√µes de acordo com as permiss√µes do usu√°ro? (Visualizar)
+Colocar o campo de texto com cor diferente quando n√£o preenchido?
